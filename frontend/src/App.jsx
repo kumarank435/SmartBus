@@ -23,7 +23,7 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import "./App.css";
 
-const API = "https://api.your-smartbus-site.com";
+const API = "https://smartbus-backend-1ase.onrender.com";
 
 const routeCoordinates = [
   [13.0827, 80.2707],
