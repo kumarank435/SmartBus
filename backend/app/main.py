@@ -30,7 +30,8 @@ app.add_middleware(
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "https://localhost",
-    "capacitor://localhost"
+    "capacitor://localhost",
+    "https://smartbus-7jgp.onrender.com"
 ],
     allow_credentials=True,
 
